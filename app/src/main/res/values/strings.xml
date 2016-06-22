@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CircleK</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="key_API">AIzaSyAW7FJrrmUY6jqBCG8rucIzqd21NMCn3RQ</string>
+    <string name="key_API1">AIzaSyB5nzcd86I8kzH7IHKC-j8rEkon8OlxOIU</string>
+    <string name="server_key_API">AIzaSyAXREfxv5ptuBRCHD6k-hjxg6pQ4cH2_A0</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBz4YQm4EjjA9bLkRp2qbecqdnxEP1ecvw</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

@@ -1,0 +1,136 @@
+36 Hai Bà Trưng Quận 1
+44 Lê Lai Quận 1
+95 Lê Thánh Tôn Quận 1
+49 Đông Du Quận 1
+139 bùi viện Quận 1
+15B1 Lê Thánh Tôn Quận 1
+251 Đề thám Quận 1
+9 Công trường lam sơn Quận 1
+69 hồ tùng mậu 9 Quận 1
+24B Hồ Huấn Nghiệp Quận 1
+53 Nguyễn Du Quận 1
+238 Lý Tự Trọng Quận 1
+139C Nguyễn Trãi Quận 1
+148 Lê Thị Riêng Quận 1
+28/8 Bùi Viện Quận 1
+114 Trần Đình Xu Quận 1
+119 Cống Quỳnh Quận 1
+31 Đỗ Quang Đẩu Quận 1
+50 Bùi Viện Quận 1
+201 Phạm Ngũ Lão Quận 1
+43 Phan Chu Trinh Quận 1
+25 Nguyễn Khắc Nhu Quận 1
+65C Nguyễn Thái Học Quận 1
+114 Lê Lợi Quận 1
+293 Phạm Ngũ Lão Quận 1
+45 Lý Tự Trọng Quận 1
+203 Bùi Viện Quận 1
+27 Tôn Thất Tùng, Phạm Ngũ Lão, Ho Chi Minh City, Quận 1
+68 Nguyễn Huệ Quận 1
+27 Mạc Đĩnh Chi Quận 1
+54 Tôn Thất Thiệp Quận 1
+273 Lê Thánh Tôn Quận 1
+48 Đinh Tiên Hoàng Quận 1
+07 Thi Sách Quận 1
+81 Bùi Viện Quận 1
+11 Nguyễn Văn Tráng Quận 1
+40 Thủ Khoa Huân Quận 1
+71 Nguyễn Thái Bình Quận 1
+118 Hồ Tùng Mậu Quận 1
+8A/11D1 Thái Văn Lung Quận 1
+63 Pasteur Quận 1
+32 Bùi Thị Xuân Quận 1
+162 Nguyễn Công Trứ Quận 1
+327 Phạm Ngũ Lão Quận 1
+257A Nguyễn Trãi Quận 1
+243 Lý Tự Trọng Quận 1
+27 Hải Triều Quận 1
+64 Đông Du Quận 1
+173 Lý Tự Trọng Quận 1
+06 Thảo Điền Quận 2
+16 Quốc Hương Quận 2
+1 Nguyễn Thông Quận 3
+147 Nguyễn Thiện Thuật Quận 3
+31 Bà Huyện Thanh Quan Quận 3
+374 Lê Văn Sỹ Quận 3
+206 Nam Kỳ Khởi Nghĩa Quận 3
+10A Trần Quốc Toản Quận 3
+542 CMT8 Quận 3
+43 Phạm Ngọc Thạch Quận 3
+76 Võ Văn Tần Quận 3
+129F/ 95I Bến Vân Đồn Quận 4
+8 Xóm Chiếu Quận 4
+13 Tôn Đản Quận 4
+167 Tôn Đản Quận 4
+62 Nguyễn Khoái Quận 4
+18 Vĩnh Hội Quận 4
+20-22/5 Sư Vạn Hạnh Quận 5
+290C An Dương Vương Quận 5
+09 Nguyễn Kim Quận 5
+178A Nguyễn Chí Thanh Quận 5
+217 Nguyễn Văn Cừ Quận 5
+4-6 Đường Số 10 Quận 6
+RC2-12 Cresent Residence, 107 Tôn Dật Tiên, Phú Mỹ Hưng Quận 7%%%10.726360,106.721024
+SC19-2 Sky Garden 2, Phú Mỹ Hưng, Quận 7%%%10.732128,106.705849
+189 Tôn Dật Tiên Quận 7
+459/8A Nguyễn Thị Thập Quận 7
+199 Đường Số 17 Quận 7
+Sky Garden3 Quận 7
+60 Lâm Văn Bền Quận 7
+45 Tân Mỹ Quận 7
+105 Nguyễn Đức Cảnh Quận 7
+109 Tôn Dật Tiên Quận 7
+SC 15 Block S4-2, Cảnh Viên 3, Quận 7%%%10.722071,106.728745
+107 Tôn Dật Tiên Quận 7
+15 Bùi Bằng Đoàn Quận 7
+126 Đường Số 15 Quận 7
+C002 Toà Nhà Mỹ Phước, Phạm Thái Bường Quận 7%%%10.727679,106.709752
+58 Phạm Văn Nghị Quận 7
+91 Đường 204 Cao Lỗ Quận 8
+172 Nguyễn Thị Tần Quận 8
+70 Đồng Nai Quận 10
+704 Sư Vạn Hạnh Quận 10
+555 Sư Vạn Hạnh Quận 10
+178A Nguyễn Chí Thanh Quận 10
+75 Thành Thái Quận 10
+27 Đào Duy Từ Quận 10
+218 Hoà Hảo Quận 10
+268 Lý Thường Kiệt Quận 10
+58 Lữ Gia Quận 11
+160 Đường Số 19,Bình Trị Đông B,Quận Bình Tân, Hồ Chí Minh, Vietnam%%%10.753531,106.614662
+193 Đường Số 1,Bình Hưng Hòa A,Quận Bình Tân, Hồ Chí Minh, Vietnam
+12C Phan Đăng Lưu Quận Bình Thạnh
+22L Miếu Nổi Quận Bình Thạnh
+1 Công Trường Tự Do Quận Bình Thạnh%%%10.792136,106.708975
+17 Đường D5 Quận Bình Thạnh
+190B Phan Văn Trị Quận Bình Thạnh
+477 Điện Biên Phủ Quận Bình Thạnh
+48 Phan Văn Hân Quận Bình Thạnh
+22L Vũ Huy Tấn Quận Bình Thạnh
+315B Bùi Hữu Nghĩa Quận Bình Thạnh
+70 Ngô Tất Tố Quận Bình Thạnh
+197 - 199 Điện Biên Phủ Quận Bình Thạnh
+2 Nguyễn Văn Công Quận Gò Vấp
+45 Nguyễn Văn Bảo Quận Gò Vấp
+668 Lê Đức Thọ Quận Gò Vấp
+67 Lê Đức Thọ Quận Gò Vấp
+184 Lê Đức Thọ Quận Gò Vấp
+220 Nguyễn Trọng Tuyển Quận Phú Nhuận
+124 Phổ Quang Quận Phú Nhuận
+42 Đặng Văn Ngữ Quận Phú Nhuận
+40C Nguyễn Văn Đâu Quận Phú Nhuận
+73 Bình Giã Quận Tân Bình
+106 Bành Văn Trân Quận Tân Bình
+116 Đồng Đen Quận Tân Bình
+876 Cách Mạng Tháng Tám Quận Tân Bình
+180 Nguyễn Hồng Đào Quận Tân Bình
+225A Hoàng Hoa Thám Quận Tân Bình
+171B Hoàng Hoa Thám Quận Tân Bình
+70 Ngô Tất Tố Quận Tân Bình
+13 Hậu Giang Quận Tân Bình
+542 Cách Mạng Tháng 8 Quận Tân Bình
+6 Quách Văn Tuấn Quận Tân Bình
+46 Hoàng Hoa Thám Quận Tân Bình
+118 Độc Lập Quận Tân Phú
+21 Thạch Lam Quận Tân Phú
+366 Võ Văn Ngân Quận Thủ Đức
